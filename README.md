@@ -1,2 +1,3 @@
 # project1
-this is my first git repositary
+This is my first git repositary
+author aryan
